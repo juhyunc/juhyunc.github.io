@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "ORCID"
+date:   2023-02-21 18:14:56 -0800
+categories: profile
+---
+[ORCID profile](https://orcid.org/0000-0001-8195-1163): 0000-0001-8195-1163
